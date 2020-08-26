@@ -1,4 +1,6 @@
-### Hi there 👋
+![](https://assets.codepen.io/62105/pirates.gif)
+
+![](https://assets.codepen.io/62105/sothat.gif)
 
 <!--
 **dazulu/dazulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
