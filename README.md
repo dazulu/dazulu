@@ -1,6 +1,11 @@
-![](https://assets.codepen.io/62105/pirates.gif)
+Let's work together @ Evernest: 
 
-![](https://assets.codepen.io/62105/dealwithit.gif)
+- [apply for our frontend positions](https://jobs.github.com/positions/5d42ea59-b94f-42bb-ba8f-e0418f714550)
+- [apply for our backend positions](https://jobs.github.com/positions/ad494559-7b93-4d26-85f6-b5350e0a5f5e)
+ 
+![](pirates.gif)
+
+![](dealwithit.gif)
 
 <!--
 **dazulu/dazulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
