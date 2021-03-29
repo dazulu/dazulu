@@ -1,7 +1,7 @@
 Let's work together @ Evernest: 
 
-- [apply for our frontend positions](https://jobs.github.com/positions/5d42ea59-b94f-42bb-ba8f-e0418f714550)
-- [apply for our backend positions](https://jobs.github.com/positions/ad494559-7b93-4d26-85f6-b5350e0a5f5e)
+- [apply for our frontend position](https://web.evernest.com/karriere/005-senior-frontend-engineer)
+- [apply for our backend position](https://web.evernest.com/karriere/002-backend-engineer-python)
  
 ![](pirates.gif)
 
