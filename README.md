@@ -1,7 +1,7 @@
-Let's work together @ Evernest: 
-
-- [apply for our frontend position](https://web.evernest.com/karriere/005-senior-frontend-engineer)
-- [apply for our backend position](https://web.evernest.com/karriere/002-backend-engineer-python)
+## We're hiring (Hamburg, Germany hybrid remote): 
+- [Senior Frontend Engineer (React, Nextjs, Typescript)](https://jobs.evernest.com/l/en/)
+- [Senior Mobile Engineer (React Native)](https://jobs.evernest.com/l/en/)
+- [Senior Software Engineer (Python, Django)](https://jobs.evernest.com/l/en/)
  
 ![](pirates.gif)
 
